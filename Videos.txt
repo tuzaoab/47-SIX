@@ -1,0 +1,156 @@
+67 KID
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://raw.githubusercontent.com/tuzaoab/67-MANGAS/main/67KID.mp4'; $videoPath = \"$env:TEMP\67KID.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+
+
+POMBO EXPLODINDO
+
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/Kabum.mp4'; $videoPath = \"$env:TEMP\Kabum.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+POMBO AVIAO
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboAviao.mp4'; $videoPath = \"$env:TEMP\PomboAviao.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+POMBO AVIAO 2
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboAviao2.mp4'; $videoPath = \"$env:TEMP\PomboAviao2.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+POMBO CEU
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboCeu.mp4'; $videoPath = \"$env:TEMP\PomboCeu.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+POMBO FLY
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboFly.mp4'; $videoPath = \"$env:TEMP\PomboFly.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+Pombo GOON
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboGoon.mp4'; $videoPath = \"$env:TEMP\PomboGoon.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+Pombo PRENSA
+
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboPrensa.mp4'; $videoPath = \"$env:TEMP\PomboPrensa.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+POMBO SCARY
+
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/PomboScary.mp4'; $videoPath = \"$env:TEMP\PomboScary.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+POMBO BEBADO
+
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/fightclub.mp4'; $videoPath = \"$env:TEMP\fightclub.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+
+
+
+
+
+POMBO NEGO (VERY SUS)
+
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/Pomgonego.mp4'; $videoPath = \"$env:TEMP\Pomgonego.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+
+Russo dançando
+
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/Bylat.mp4'; $videoPath = \"$env:TEMP\Bylat.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+khaby
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/lame.mp4'; $videoPath = \"$env:TEMP\lame.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+CLODO
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://github.com/tuzaoab/67-MANGAS/raw/main/CloDite.mp4'; $videoPath = \"$env:TEMP\CloDite.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error 'Erro ao baixar ou abrir o vídeo: ' + $_.Exception.Message; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
+
+
+
+nao tenho ctrz se  funciona
+
+@echo off
+powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "try { $imageUrl = 'https://raw.githubusercontent.com/tuzaoab/67-MANGAS/main/67KID.mp4'; $videoPath = \"$env:TEMP\67KID.mp4\"; Invoke-WebRequest -Uri $imageUrl -OutFile $videoPath -ErrorAction Stop; Invoke-Item $videoPath; Start-Sleep -Seconds 7.5; Stop-Process -Name 'Microsoft.Photos' -ErrorAction SilentlyContinue; Remove-Item $videoPath -ErrorAction SilentlyContinue } catch { Write-Error \"Erro ao baixar ou abrir o vídeo: $($_.Exception.Message)\"; exit 1 }"
+if %ERRORLEVEL% neq 0 (
+    echo Erro: Falha ao executar o comando PowerShell.
+    pause
+)
